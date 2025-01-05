@@ -18,17 +18,71 @@ Please [email me](mailto:shan.luo@kcl.ac.uk) if you require a copy of the paper.
 
 <!-- # Preprint -->
 
+#2024
+1. **S. Luo**, N. Lepora, W. Yuan, K. Althoefer, G. Cheng and R. Dahiya, “Guest Editorial Special
+Collection on Tactile Robotics”, IEEE Transactions on Robotics, 2024.
+2. D. Zhang, W. Fan, J. Lin, H. Li, Q. Cong, W. Liu, N. Lepora, and **S. Luo**, “Design and Benchmarking
+of A Multi-Modality Sensor for Robotic Manipulation with GAN-Based Cross-Modality
+Interpretation”, IEEE Transactions on Robotics, 2024.
+3. B. Duan, K. Qian, A. Liu and **S. Luo**, “Visual-tactile Learning of Robotic Cable-In-Duct Installation
+Skills”, Automation in Construction, 2024.
+4. N. Ou, Z. Chen and **S. Luo**, “Marker or Markerless? Mode-Switchable Optical Tactile Sensing for
+Diverse Robot Tasks”, IEEE Robotics and Automation Letters, 2024.
+5. Q. Li, G. Li, C. Yu, **S. Luo**, and J. Ding, “Human-Like Locomotion and Manipulation: Current
+Achievements and Challenges”, International Journal of Humanoid Robotics, 2024.
+6. Y. Zhao, K. Qian, B. Duan, and **S. Luo**, “FOTS: A Fast Optical Tactile Simulator for Sim2Real
+Learning of Tactile-motor Robot Manipulation Skills”, IEEE Robotics and Automation Letters, 2024.
+7. S. Li, Z. Wang, C. Wu, X. Li, **S. Luo**, B. Fang, F. Sun, X. Zhang, W. Ding, “When Vision Meets Touch: A
+Contemporary Review for Visuotactile Sensors from the Signal Processing Perspective”, IEEE Journal
+of Selected Topics in Signal Processing, 2024.
+8. G. Cao, J. Jiang, D. Bollegala and **S. Luo**, “Multimodal Zero-Shot Learning for Tactile Texture
+Recognition”, Robotics and Autonomous Systems, 2024.
+9. Y. Luo, J. Wang, Y. Pan, **S. Luo**, P. Irani, H.N. Liang, “Visual augmentation of live-streaming images in
+virtual reality to enhance teleoperation of unmanned ground vehicles”, Frontiers in Virtual Reality,
+2024.
+10. J. Yu, J. Jiang, S. Fichera, P. Paoletti, L. Layzell, D. Mehta, **S. Luo**, “Road Surface Defect Detection –
+From Image-based to Non-image-based: A Survey”, IEEE Transactions on Intelligent Transportation
+Systems, 2024.
+11. J. Wojcik, J. Jiang, J. Wu and **S. Luo**, “A Case Study on Visual-Audio-Tactile Cross-Modal Retrieval",
+IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2024.
+12. Z. Chen, N. Ou, J. Jiang and **S. Luo**, “Deep Domain Adaptation Regression for Force Calibration of
+Optical Tactile Sensors", IEEE/RSJ International Conference on Intelligent Robots and Systems
+(IROS), 2024.
+13. J. Dan, Y. Liu, J. Deng, H. Xie, S. Li, B. Sun, and **S. Luo**, “TopoFR: A Closer Look at Topology
+Alignment on Face Recognition", Conference on Neural Information Processing Systems (NeuRIPS),
+2024.
+14. K. Alexandridis, J. Deng, A. Nguyen, **S. Luo**, “Adaptive Parametric Activation", European
+Conference on Computer Vision (ECCV), 2024.
+15. J. Yu, C. B. chen, S. Fichera, P. Paoletti, D. Mehta, **S. Luo**, “Multi-class Road Defect Detection and
+Segmentation using Spatial and Channel-wise Attention for Autonomous Road Repairing", IEEE
+International Conference on Robotics and Automation (ICRA), 2024.
+16. W. Fan, H. Li, W. Si, **S. Luo**, N. Lepora, D. Zhang, “Multi-class Road Defect Detection and
+Segmentation using Spatial and Channel-wise Attention for Autonomous Road Repairing", IEEE
+International Conference on Robotics and Automation (ICRA), 2024.
+17. E. Y. Puang, Z. Li, C. M. Chew, **S. Luo**, Y. Wu, “Learning Stable Robot Grasping with
+Transformer-based Tactile Control Policies”, The 19th IEEE Conference on Industrial Electronics and
+Applications (ICIEA), 2024. (Best Paper Award finalist)
+
 # 2023
-1. G. Cao, J. Jiang, D. Bollegala, and **S. Luo**, “Learn from Incomplete Tactile Data: Tactile Representation Learning with Masked Autoencoders”, IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2023.
-2. A. Butterworth, G. Pizzuto, L. Pecyna, A. I. Cooper and **S. Luo**, “Leveraging Multi-modal Sensing for Robotic Insertion Tasks in R&D Laboratories”, IEEE International Conference on Automation Science and Engineering (CASE), 2023.
-3. D. F. Gomes, P. Paoletti and **S. Luo**, “Beyond Flat GelSight Sensors: Simulation of Optical Tactile Sensors of Complex Morphologies for Sim2Real Learning”, Robotics: Science and Systems (RSS), 2023.
-4. X. Jing, K. Qian, T. Jianu and **S. Luo**, “Unsupervised Adversarial Domain Adaptation for Sim-to-Real Transfer of Tactile Images”, IEEE Transactions on Measurement and Instrumentation, 2023.
-5. G. Cao, J. Jiang, C. Lu, D. F. Gomes and **S. Luo**, “TouchRoller: A Rolling Optical Tactile Sensor for Rapid Assessment of Large Surfaces”, Sensors, 2023.
-6. M Li, J Wang, S Yang, J Xie, G Xu, **S. Luo**, “A CNN-LSTM Model for Six Human Ankle Movements Classification on Different Loads”, Frontiers in Human Neuroscience, 17(82), 2023.
-7. G. Cao, J. Jiang, N. Mao, D. Bollegala, M. Li, **S. Luo**, “Vis2Hap: Vision-based Haptic Rendering by Cross-modal Generation”, IEEE International Conference on Robotics and Automation (ICRA), 2023.
-8. J. Yu, H. Oh, S. Fichera, P. Paoletti, and **S. Luo**, “Multi-source Domain Adaptation for Unsupervised Road Defect Segmentation”, IEEE International Conference on Robotics and Automation (ICRA), 2023.
-9. Z. Chen, S. Zhang, **S. Luo**, F. Sun, and B. Fang, “Tacchi: A Pluggable and Low Computational Cost Elastomer Deformation Simulator for Optical Tactile Sensors”, IEEE Robotics and Automation Letters, 2023.
-10. Z. Xiao, C. Liu, **S. Luo**, K. Huang, H. Gao, X. Xu, X. Wang, “A collaborative and dynamic multi-source single-destination navigation algorithm for smart cities”, Sustainable Energy Technologies and Assessments, 2023.
+1.  J. Jiang, G. Cao, J. Deng, T.T. Do and **S. Luo**, “Robotic Perception of Transparent Objects - A Review”, IEEE Transactions on Artificial Intelligence, 2023.
+2.  Z. Lin, J. Zhuang, Y. Li, X. Wu, **S. Luo**, D. F. Gomes, F. Huang, and Z. Yang, “GelFinger: A Novel
+Visual-Tactile Sensor with Multi-Angle Tactile Image Stitching”, IEEE Robotics and Automation
+Letters, 2023.
+K.P. Alexandridis, **S. Luo**, A. Nguyen, J. Deng, S. Zafeiriou, “Inverse Image Frequency for
+Long-tailed Image Recognition”, IEEE Transactions on Image Processing, 2023.
+4. G. Cao, J. Jiang, D. Bollegala, and **S. Luo**, “Learn from Incomplete Tactile Data: Tactile Representation Learning with Masked Autoencoders”, IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2023.
+5. A. Butterworth, G. Pizzuto, L. Pecyna, A. I. Cooper and **S. Luo**, “Leveraging Multi-modal Sensing for Robotic Insertion Tasks in R&D Laboratories”, IEEE International Conference on Automation Science and Engineering (CASE), 2023.
+6. D. F. Gomes, P. Paoletti and **S. Luo**, “Beyond Flat GelSight Sensors: Simulation of Optical Tactile Sensors of Complex Morphologies for Sim2Real Learning”, Robotics: Science and Systems (RSS), 2023.
+7. X. Jing, K. Qian, T. Jianu and **S. Luo**, “Unsupervised Adversarial Domain Adaptation for Sim-to-Real Transfer of Tactile Images”, IEEE Transactions on Measurement and Instrumentation, 2023.
+8. G. Cao, J. Jiang, C. Lu, D. F. Gomes and **S. Luo**, “TouchRoller: A Rolling Optical Tactile Sensor for Rapid Assessment of Large Surfaces”, Sensors, 2023.
+9. M Li, J Wang, S Yang, J Xie, G Xu, **S. Luo**, “A CNN-LSTM Model for Six Human Ankle Movements Classification on Different Loads”, Frontiers in Human Neuroscience, 17(82), 2023.
+10. G. Cao, J. Jiang, N. Mao, D. Bollegala, M. Li, **S. Luo**, “Vis2Hap: Vision-based Haptic Rendering by Cross-modal Generation”, IEEE International Conference on Robotics and Automation (ICRA), 2023.
+11. J. Yu, H. Oh, S. Fichera, P. Paoletti, and **S. Luo**, “Multi-source Domain Adaptation for Unsupervised Road Defect Segmentation”, IEEE International Conference on Robotics and Automation (ICRA), 2023.
+12. Z. Chen, S. Zhang, **S. Luo**, F. Sun, and B. Fang, “Tacchi: A Pluggable and Low Computational Cost Elastomer Deformation Simulator for Optical Tactile Sensors”, IEEE Robotics and Automation Letters, 2023.
+13. Z. Xiao, C. Liu, **S. Luo**, K. Huang, H. Gao, X. Xu, X. Wang, “A collaborative and dynamic multi-source single-destination navigation algorithm for smart cities”, Sustainable Energy Technologies and Assessments, 2023.
+14. Y.B. Liou, **S. Luo**, and Y.C. Liu, “Development of a Robot-assisted Virtual Rehabilitation System with
+Haptic Feedback”, IEEE International Conference on Robot and Human Interactive Communication
+(IEEE RO-MAN 2023).
 
 
 # 2022
