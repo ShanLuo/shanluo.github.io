@@ -38,19 +38,17 @@ of Selected Topics in Signal Processing, 2024.
 8. G. Cao, J. Jiang, D. Bollegala and **S. Luo**, “Multimodal Zero-Shot Learning for Tactile Texture
 Recognition”, Robotics and Autonomous Systems, 2024.
 9. Y. Luo, J. Wang, Y. Pan, **S. Luo**, P. Irani, H.N. Liang, “Visual augmentation of live-streaming images in
-virtual reality to enhance teleoperation of unmanned ground vehicles”, Frontiers in Virtual Reality,
-2024.
+virtual reality to enhance teleoperation of unmanned ground vehicles”, Frontiers in Virtual Reality, 2024.
 10. J. Yu, J. Jiang, S. Fichera, P. Paoletti, L. Layzell, D. Mehta, **S. Luo**, “Road Surface Defect Detection –
 From Image-based to Non-image-based: A Survey”, IEEE Transactions on Intelligent Transportation
-Systems, 2024.
+Systems, 2024. 
 11. J. Wojcik, J. Jiang, J. Wu and **S. Luo**, “A Case Study on Visual-Audio-Tactile Cross-Modal Retrieval",
 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2024.
 12. Z. Chen, N. Ou, J. Jiang and **S. Luo**, “Deep Domain Adaptation Regression for Force Calibration of
 Optical Tactile Sensors", IEEE/RSJ International Conference on Intelligent Robots and Systems
 (IROS), 2024.
 13. J. Dan, Y. Liu, J. Deng, H. Xie, S. Li, B. Sun, and **S. Luo**, “TopoFR: A Closer Look at Topology
-Alignment on Face Recognition", Conference on Neural Information Processing Systems (NeuRIPS),
-2024.
+Alignment on Face Recognition", Conference on Neural Information Processing Systems (NeuRIPS), 2024.
 14. K. Alexandridis, J. Deng, A. Nguyen, **S. Luo**, “Adaptive Parametric Activation", European
 Conference on Computer Vision (ECCV), 2024.
 15. J. Yu, C. B. chen, S. Fichera, P. Paoletti, D. Mehta, **S. Luo**, “Multi-class Road Defect Detection and
