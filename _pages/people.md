@@ -15,7 +15,6 @@ toc: true
 * [Zhiyuan Wu](https://georgewuzy.github.io/), co-supervision with Dr. Emmanouil Spyrakos Papastavridis (2024-present). Research topics: multimodal perception, robot learning, and generative models.
 * Yupeng Wang, co-supervision with Dr. Lukas Lindenroth (2024-present). Research topics: medical robotics, robot designs, and tactile sensing.
 * Yang Liu, co-supervision with Dr. Emmanouil Spyrakos Papastavridis (2024-present). Research topics: computer vision, agent learning, and robot multimodal learning.
-* Zhiyuan Wu, co-supervision with Dr. Emmanouil Spyrakos Papastavridis (2024-present). Research topics: robot learning, robot manipulations and tactile sensing.
 * [Zhuo Chen](https://zhuochenn.github.io/zhuochenTac.github.io), co-supervision with Dr. Emmanouil Spyrakos Papastavridis (2023-present). Research topics: tactile sensing, transfer learning and robot grasping.
 * Xuyang Zhang, co-supervision with Dr. Emmanouil Spyrakos Papastavridis (2023-present). Research topics: tactile sensing, simulation and robot designs.
 * [Jiaqi Jiang](https://sites.google.com/view/jiaqi-jiang/), co-supervision with Dr. Thanh-Toan Do (2019-2024). Research topics: transparent object detection and grasping, robot vision and tactile sensing.
