@@ -33,6 +33,8 @@ Email: shan.luo at kcl.ac.uk
 Please email me with a copy of your CV if you are interested in the above opportunities. Visit [Opportunities](/opportunities/) for all the opportunities.
 
 ## [News](/news/)
+*  Feb 2025: We have one IDLA PhD Studentship available, funded by the EPSRC and Unilever, send me a copy of your CV if you are interested in joining our lab!
+*  Feb 2025: I have been invited to share my insights into accelerating sustainable manufacturing with robotics in the ["Engineering Sustainability: Where to next?" Panel](https://www.kcl.ac.uk/events/engineering-sustainability-where-to-next).
 *  Jan 2025: Our paper on cross-sensor force prediction has been accepted to ICRA 2025, congratulations to Zhuo and the team! [paper](https://arxiv.org/pdf/2409.09870)
 *  Dec 2024: Our 6th ViTac workshop has been accepted to ICRA 2025, see you in Atlanta!
 *  Dec 2024: Our paper on multi-modality tactile sensor has been accepted to T-RO Special Collection in Tactile Robotics, congratulations to Dandan and the team!
