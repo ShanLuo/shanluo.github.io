@@ -33,8 +33,9 @@ Email: shan.luo at kcl.ac.uk
 Please email me with a copy of your CV if you are interested in the above opportunities. Visit [Opportunities](/opportunities/) for all the opportunities.
 
 ## [News](/news/)
+*  Mar 2025: We have one EPSRC PhD Studentship in Robotics and AI available, funded by the EPSRC CDT in Advanced Engineering for Personalised Surgery & Intervention, send me a copy of your CV if you are interested in joining our lab! [link](https://www.surgerycdt.com/project/tactile-aided-visual-navigation-and-localisation-for-robot-assisted-minimally-invasive-surgeries/)
 *  Feb 2025: One paper is accepted to CVPR 2025, congratultions to Kostas and the team! [paper](https://arxiv.org/pdf/2410.11774?)
-*  Feb 2025: We have one IDLA PhD Studentship available, funded by the EPSRC and Unilever, send me a copy of your CV if you are interested in joining our lab!
+*  Feb 2025: We have one IDLA PhD Studentship available, funded by the EPSRC and Unilever, send me a copy of your CV if you are interested in joining our lab! [link](https://www.kcl.ac.uk/study-legacy/funding/epsrc-industrial-doctoral-landscape-award-idla-studentship-in-robotics-and-ai)
 *  Feb 2025: I have been invited to share my insights into accelerating sustainable manufacturing with robotics in the ["Engineering Sustainability: Where to next?" Panel](https://www.kcl.ac.uk/events/engineering-sustainability-where-to-next).
 *  Jan 2025: Our paper on cross-sensor force prediction has been accepted to ICRA 2025, congratulations to Zhuo and the team! [paper](https://arxiv.org/pdf/2409.09870)
 *  Dec 2024: Our 6th ViTac workshop has been accepted to ICRA 2025, see you in Atlanta!
