@@ -17,6 +17,10 @@ I was a Lecturer (Assistant Professor) at the Department of Computer Science, th
 Email: shan.luo at kcl.ac.uk  
 
 ## Openings
+* PhD Opening: [EPSRC Industrial Doctoral Landscape Award (IDLA) Studentship in Robotics and AI](https://www.kcl.ac.uk/study-legacy/funding/epsrc-industrial-doctoral-landscape-award-idla-studentship-in-robotics-and-ai) Closing date: 15 April 2025.
+
+* PhD Opening: [Studentship funded by EPSRC CDT in Advanced Engineering for Personalised Surgery & Intervention](https://www.surgerycdt.com/project/tactile-aided-visual-navigation-and-localisation-for-robot-assisted-minimally-invasive-surgeries/) Closing date: when filled.
+
 <!---* PhD Opening: [NMES PhD Studentships](https://www.findaphd.com/phds/program/kings-college-london-phd-studentships-in-the-faculty-of-natural-mathematical-and-engineering-sciences/?p616)--->
 
 <!---* PhD Opening: One [A*STAR and King’s College London PhD Studentship (October 2024 Entry)](https://www.kcl.ac.uk/research/funding/astar-phd-studentships) is available. Applications are accepted from citizens of the UK, the EU, the USA, Canada, Latin America, and Australia.--->
@@ -35,7 +39,7 @@ Please email me with a copy of your CV if you are interested in the above opport
 ## [News](/news/)
 *  Mar 2025: We have one EPSRC PhD Studentship in Robotics and AI available, funded by the EPSRC CDT in Advanced Engineering for Personalised Surgery & Intervention, send me a copy of your CV if you are interested in joining our lab! [link](https://www.surgerycdt.com/project/tactile-aided-visual-navigation-and-localisation-for-robot-assisted-minimally-invasive-surgeries/)
 *  Feb 2025: One paper is accepted to CVPR 2025, congratultions to Kostas and the team! [paper](https://arxiv.org/pdf/2410.11774?)
-*  Feb 2025: We have one IDLA PhD Studentship available, funded by the EPSRC and Unilever, send me a copy of your CV if you are interested in joining our lab! [link](https://www.kcl.ac.uk/study-legacy/funding/epsrc-industrial-doctoral-landscape-award-idla-studentship-in-robotics-and-ai)
+*  Feb 2025: We have one IDLA PhD Studentship available, funded by the EPSRC and Unilever, send me a copy of your CV if you are interested in joining our lab! [link](https://www.kcl.ac.uk/study-legacy/funding/epsrc-industrial-doctoral-landscape-award-idla-studentship-in-robotics-and-ai) Closing date: 15 April 2025.
 *  Feb 2025: I have been invited to share my insights into accelerating sustainable manufacturing with robotics in the ["Engineering Sustainability: Where to next?" Panel](https://www.kcl.ac.uk/events/engineering-sustainability-where-to-next).
 *  Jan 2025: Our paper on cross-sensor force prediction has been accepted to ICRA 2025, congratulations to Zhuo and the team! [paper](https://arxiv.org/pdf/2409.09870)
 *  Dec 2024: Our 6th ViTac workshop has been accepted to ICRA 2025, see you in Atlanta!
