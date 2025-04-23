@@ -44,7 +44,7 @@ Please email me with a copy of your CV if you are interested in the above opport
 *  Feb 2025: I have been invited to share my insights into accelerating sustainable manufacturing with robotics in the ["Engineering Sustainability: Where to next?" Panel](https://www.kcl.ac.uk/events/engineering-sustainability-where-to-next).
 *  Jan 2025: Our paper on cross-sensor force prediction has been accepted to ICRA 2025, congratulations to Zhuo and the team! [paper](https://arxiv.org/pdf/2409.09870)
 *  Dec 2024: Our 6th ViTac workshop has been accepted to ICRA 2025, see you in Atlanta!
-*  Dec 2024: Our paper on multi-modality tactile sensor has been accepted to T-RO Special Collection in Tactile Robotics, congratulations to Dandan and the team!
+*  Dec 2024: Our paper on multi-modality tactile sensor has been accepted to T-RO Special Collection in Tactile Robotics, congratulations to Dandan and the team! [paper](https://arxiv.org/pdf/2501.02303)
 *  Nov 2024: Our Royal Society International Exchange Award has been granted.
 *  Sep 2024: Our paper on topology alignment for face recognition has been accepted to NeuRIPS 2024, congratulations to Yang and the team! [paper](https://arxiv.org/abs/2410.10587) [code and models](https://github.com/modelscope/facechain/tree/main/face_module/TopoFR)
 *  Sep 2024: Welcome Tuan Nguyen from JAIST and Hengfei Zhao from Tsinghua University to start visiting our group!
