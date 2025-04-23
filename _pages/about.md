@@ -38,6 +38,7 @@ Please email me with a copy of your CV if you are interested in the above opport
 
 ## [News](/news/)
 *  Apr 2025: Our RoTipBot is accepted to T-RO, congratultions to Jiaqi, Xuyang and the team! [paper](https://arxiv.org/pdf/2406.09332) [website](https://sites.google.com/view/rotipbot)
+*  Apr 2025: One paper is accepted to R:SS 2025, congratulations to Stone, Hao and the team! [paper](https://arxiv.org/pdf/2410.00425) [website](https://www.maniskill.ai/)
 *  Mar 2025: We have one EPSRC PhD Studentship in Robotics and AI available, funded by the EPSRC CDT in Advanced Engineering for Personalised Surgery & Intervention, send me a copy of your CV if you are interested in joining our lab! [link](https://www.surgerycdt.com/project/tactile-aided-visual-navigation-and-localisation-for-robot-assisted-minimally-invasive-surgeries/)
 *  Feb 2025: One paper is accepted to CVPR 2025, congratultions to Kostas and the team! [paper](https://arxiv.org/pdf/2410.11774?)
 *  Feb 2025: We have one IDLA PhD Studentship available, funded by the EPSRC and Unilever, send me a copy of your CV if you are interested in joining our lab! [link](https://www.kcl.ac.uk/study-legacy/funding/epsrc-industrial-doctoral-landscape-award-idla-studentship-in-robotics-and-ai) Closing date: 15 April 2025.
