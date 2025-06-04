@@ -37,6 +37,8 @@ Email: shan.luo at kcl.ac.uk
 Please email me with a copy of your CV if you are interested in the above opportunities. Visit [Opportunities](/opportunities/) for all the opportunities.
 
 ## [News](/news/)
+*  May 2025: I will serve as an Associate Editor for the IEEE Transactions on Robotics (T-RO) from July 2025.
+*  May 2025: The 3rd London Summer School in Robotics and AI will take place at King's on 25th June, this year's theme is "A Robot Touch of AI", come to join us! [registration site](https://www.eventbrite.co.uk/e/the-third-london-summer-school-in-robotics-and-ai-a-robot-touch-of-ai-tickets-1388384949759?aff=oddtdtcreator) 
 *  Apr 2025: Our RoTipBot is accepted to T-RO, congratultions to Jiaqi, Xuyang and the team! [paper](https://arxiv.org/pdf/2406.09332) [website](https://sites.google.com/view/rotipbot)
 *  Apr 2025: One paper is accepted to R:SS 2025, congratulations to Stone, Hao and the team! [paper](https://arxiv.org/pdf/2410.00425) [website](https://www.maniskill.ai/)
 *  Mar 2025: We have one EPSRC PhD Studentship in Robotics and AI available, funded by the EPSRC CDT in Advanced Engineering for Personalised Surgery & Intervention, send me a copy of your CV if you are interested in joining our lab! [link](https://www.surgerycdt.com/project/tactile-aided-visual-navigation-and-localisation-for-robot-assisted-minimally-invasive-surgeries/)
