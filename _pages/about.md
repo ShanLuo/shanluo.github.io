@@ -17,7 +17,7 @@ I was a Lecturer (Assistant Professor) at the Department of Computer Science, th
 Email: shan.luo at kcl.ac.uk  
 
 ## Openings
-* PhD Opening: [EPSRC Industrial Doctoral Landscape Award (IDLA) Studentship in Robotics and AI](https://www.kcl.ac.uk/study-legacy/funding/epsrc-industrial-doctoral-landscape-award-idla-studentship-in-robotics-and-ai) Closing date: 15 April 2025.
+<!---* PhD Opening: [EPSRC Industrial Doctoral Landscape Award (IDLA) Studentship in Robotics and AI](https://www.kcl.ac.uk/study-legacy/funding/epsrc-industrial-doctoral-landscape-award-idla-studentship-in-robotics-and-ai) Closing date: 15 April 2025.--->
 
 * PhD Opening: [Studentship funded by EPSRC CDT in Advanced Engineering for Personalised Surgery & Intervention](https://www.surgerycdt.com/project/tactile-aided-visual-navigation-and-localisation-for-robot-assisted-minimally-invasive-surgeries/) Closing date: when filled.
 
