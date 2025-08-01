@@ -38,8 +38,8 @@ Please email me with a copy of your CV if you are interested in the above opport
 
 ## [News](/news/)
 *  July 2025: Our paper titled "Tactile Robotics: An Outlook" has been accepted to T-RO!
-*  July 2025: I will give a keynote talk ``Tactile Intelligence in Robotics: Sensing and Interaction Across Scales'' at the [Trustworthy Embodied Intelligence in Healthcare Symposium]((https://www.intelligentrobotics-acrossscales.com/symposium2025)) at Imperial-X on 17th July 2025.
-*  July 2025: I will give a keynote talk ``Tactile Sensing in a Multimodal Embodied Intelligence Era'', at [EPSRC UK Robotics and Autonomous Systems (UK-RAS) Network]([https://www.linkedin.com/company/ukrobotics/posts/?feedView=all) ECR Webinar: Online Pitching Event – BioInspired Robotics, on 11th July 2025.
+*  July 2025: I will give a keynote talk "Tactile Intelligence in Robotics: Sensing and Interaction Across Scales" at the [Trustworthy Embodied Intelligence in Healthcare Symposium]((https://www.intelligentrobotics-acrossscales.com/symposium2025)) at Imperial-X on 17th July 2025.
+*  July 2025: I will give a keynote talk "Tactile Sensing in a Multimodal Embodied Intelligence Era", at [EPSRC UK Robotics and Autonomous Systems (UK-RAS) Network]([https://www.linkedin.com/company/ukrobotics/posts/?feedView=all) ECR Webinar: Online Pitching Event – BioInspired Robotics, on 11th July 2025.
 *  June 2025: I will give a talk at the workshop on "Visual-tactile sensing for soft tissue examination" at the workshop on "Advanced tissue examination for diagnostics in surgical soft robotics" at Hamlyn Symposium 2025, come to join us! [Workshop Website]（https://www.hamlynsymposium.org/events/advanced-tissue-examination-for-diagnostics-in-surgical-soft-robotics/）
 *  June 205: I will co-organise the workshop on "Flexible Electronics for Healthcare", at Hamlyn Symposium 2025, come to join us! [Workshop Website]（https://www.hamlynsymposium.org/events/flexible-electronics-for-healthcare/）
 *  May 2025: I will serve as an Associate Editor for the IEEE Transactions on Robotics (T-RO) from July 2025.
