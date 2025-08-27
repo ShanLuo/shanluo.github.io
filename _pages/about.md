@@ -37,8 +37,8 @@ Email: shan.luo at kcl.ac.uk
 Please email me with a copy of your CV if you are interested in the above opportunities. Visit [Opportunities](/opportunities/) for all the opportunities.
 
 ## [News](/news/)
-*  August 2025: Out paper titled "MultiClear: Multimodal Soft Exoskeleton Glove for Transparent Object Grasping Assistance" was awarded the Best Paper Award at TAROS 2025, congratulations to Chen, Letizia and Tim!
-*  July 2025: Our paper titled "Tactile Robotics: An Outlook" has been accepted to T-RO!
+*  August 2025: Out paper titled "MultiClear: Multimodal Soft Exoskeleton Glove for Transparent Object Grasping Assistance" was awarded the Best Paper Award at TAROS 2025, congratulations to Chen, Letizia and Tim! [paper link](https://arxiv.org/abs/2504.03379)
+*  July 2025: Our paper titled "Tactile Robotics: An Outlook" has been accepted to T-RO! [paper link](https://kclpure.kcl.ac.uk/portal/en/publications/tactile-robotics-an-outlook)
 *  July 2025: I will give a keynote talk "Tactile Intelligence in Robotics: Sensing and Interaction Across Scales" at the [Trustworthy Embodied Intelligence in Healthcare Symposium](https://www.intelligentrobotics-acrossscales.com/symposium2025) at Imperial-X on 17th July 2025.
 *  July 2025: I will give a keynote talk "Tactile Sensing in a Multimodal Embodied Intelligence Era", at [EPSRC UK Robotics and Autonomous Systems (UK-RAS) Network](https://www.linkedin.com/company/ukrobotics/posts/?feedView=all) ECR Webinar: Online Pitching Event – BioInspired Robotics, on 11th July 2025.
 *  June 2025: I will give a talk at the workshop on "Visual-tactile sensing for soft tissue examination" at the workshop on "Advanced tissue examination for diagnostics in surgical soft robotics" at Hamlyn Symposium 2025, come to join us! [website](https://www.hamlynsymposium.org/events/advanced-tissue-examination-for-diagnostics-in-surgical-soft-robotics)
