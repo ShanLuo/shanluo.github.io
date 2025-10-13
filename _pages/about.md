@@ -19,14 +19,14 @@ Email: shan.luo at kcl.ac.uk
 ## Openings
 <!---* PhD Opening: [EPSRC Industrial Doctoral Landscape Award (IDLA) Studentship in Robotics and AI](https://www.kcl.ac.uk/study-legacy/funding/epsrc-industrial-doctoral-landscape-award-idla-studentship-in-robotics-and-ai) Closing date: 15 April 2025.--->
 
-* PhD Opening: [Studentship funded by EPSRC CDT in Advanced Engineering for Personalised Surgery & Intervention](https://www.surgerycdt.com/project/tactile-aided-visual-navigation-and-localisation-for-robot-assisted-minimally-invasive-surgeries/) Closing date: when filled.
+<!---* PhD Opening: [Studentship funded by EPSRC CDT in Advanced Engineering for Personalised Surgery & Intervention](https://www.surgerycdt.com/project/tactile-aided-visual-navigation-and-localisation-for-robot-assisted-minimally-invasive-surgeries/) Closing date: when filled. --->
 
 <!---* PhD Opening: [NMES PhD Studentships](https://www.findaphd.com/phds/program/kings-college-london-phd-studentships-in-the-faculty-of-natural-mathematical-and-engineering-sciences/?p616)--->
 
 <!---* PhD Opening: One [A*STAR and King’s College London PhD Studentship (October 2024 Entry)](https://www.kcl.ac.uk/research/funding/astar-phd-studentships) is available. Applications are accepted from citizens of the UK, the EU, the USA, Canada, Latin America, and Australia.--->
 
 * PhD studentships (home/international fees) available, contact me with a copy of your up-to-date CV if you are interested!
-* PhD Opening: One [King's-China Scholarship Council](https://www.kcl.ac.uk/study-legacy/funding/kings-china-scholarship-council-phd-scholarship-programme-k-csc) PhD position is available, open to Chinese students. Deadline: 1st January 2025 (currently closed). 
+* PhD Opening: One [King's-China Scholarship Council](https://www.kcl.ac.uk/study-legacy/funding/kings-china-scholarship-council-phd-scholarship-programme-k-csc) PhD position is available, open to Chinese students. Deadline: 1st January 2026. 
 
 * [Commonwealth PhD Scholarships](https://www.kcl.ac.uk/study-legacy/funding/commonwealth-phd-scholarships-for-high-income-countries)
 
@@ -37,6 +37,8 @@ Email: shan.luo at kcl.ac.uk
 Please email me with a copy of your CV if you are interested in the above opportunities. Visit [Opportunities](/opportunities/) for all the opportunities.
 
 ## [News](/news/)
+*  October 2025: Our paper titled "ViTacGen: Robotic Pushing with Vision-to-Touch Generation" has been accepted to IEEE Robotics and Automation Letters (RA-L), congratulations to Zhiyuan and the team!
+*  September 2025: Our paper titled "TransFace++: Rethinking the Face Recognition Paradigm with a Focus on Accuracy, Efficiency, and Security" has been accepted to IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI), congratulations to Yang and the team! [paper link](https://ieeexplore.ieee.org/abstract/document/11184862)
 *  August 2025: I was inteterview by CGTN Europe on "Rise of the robots: How they’re solving global issues" at the IET Savoy Place. [YouTube interview video](https://www.youtube.com/watch?v=Ks9hy7K28KE); [News article](https://newseu.cgtn.com/news/2025-08-15/The-robots-learning-to-be-more-human-1FQ65aa0c5W/p.html)
 *  August 2025: Our paper titled "MultiClear: Multimodal Soft Exoskeleton Glove for Transparent Object Grasping Assistance" was awarded the Best Paper Award at TAROS 2025, congratulations to Chen, Letizia and Tim! [paper link](https://arxiv.org/abs/2504.03379)
 *  July 2025: Our paper titled "Tactile Robotics: An Outlook" has been accepted to T-RO! [paper link](https://kclpure.kcl.ac.uk/portal/en/publications/tactile-robotics-an-outlook)
