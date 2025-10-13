@@ -5,11 +5,13 @@ permalink: /funding-and-awards/
 author_profile: true
 ---
 # Ongoing Projects
-* Principal Investigator, EPSRC New Investigator Award, [ViTac: Visual-Tactile Synergy for Handling Flexible Materials](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/T033517/2) , £536k, Apr 2021 to Apr 2024
-* Principal Investigator (at King's), EPSRC Innovate UK SMART Grant, [ARRES PREVENT: The World-First Autonomous Road Repair Vehicle](https://www.robotiz3d.com/smart.html) , £272k, Oct 2021 to Sep 2023
-* Principal Investigator, Unilever funded project, £114k, Oct 2022 to Sep 2023
+* Principal Investigator, EPSRC Industrial Doctoral Landscape Award (IDLA), £250k, Oct 2025 to Oct 2029
+* Principal Investigator, Visual-Tactile Robotics, £275k, Oct 2025 to Oct 2026
 
 # Completed Projects
+* Principal Investigator, EPSRC New Investigator Award, [ViTac: Visual-Tactile Synergy for Handling Flexible Materials](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/T033517/2) , £536k, Apr 2021 to Apr 2024
+* Principal Investigator (at King's), EPSRC Innovate UK SMART Grant, [ARRES PREVENT: The World-First Autonomous Road Repair Vehicle](https://www.robotiz3d.com/smart.html), £272k, Oct 2021 to Sep 2023
+* Principal Investigator, Unilever funded project, £114k, Oct 2022 to Sep 2023
 * Principal Investigator, Unilever funded project, £71k, Oct 2021 to May 2022
 * Knowledge Base Supervisor, "RAMP: Robot Arm Microplate Processing", Innovate UK KTP project, with Astech Projects Ltd, £175k, Nov 2019-Oct 2021
 * Principal Investigator, "Feel Nuclear Sites", RAIN Hub Expansion project, £16.7k, Jun 2020 to Dec 2020
