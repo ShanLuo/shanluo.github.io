@@ -28,6 +28,11 @@ author_profile: true
 * Co-Investigator, Royal Society International Exchanges Scheme, with Istituto Italiano di Tecnologia (IIT), £12k
 
 # Awards
+* Best Paper Award at TAROS 2025 (the longest-run UK-hosted international conference on Robotics)
+* Robotics and Automation Award finalist, Akabo Media, 2025
+* 2nd Place, Kingsbot team (Academic Supervisor), 2024 RoboCup Autonomous Manipulation Challenge (ARM)
+* Best Poster Award, The 5th UK Robot Manipulation Workshop, 2024
+* UK-RAS Early Career Award, 2023
 * Best Student Paper Award finalist, The 2022 IEEE 18th International Conference on Automation Science and Engineering (CASE)
 * Best Paper Award, The 18th ACM SIGGRAPH International Conference on Virtual-Reality Continuum and its Applications in Industry (ACM SIGGRAPH VRCAI 2022) 
 * 2nd Prize, Liverbot GMaster, Xi’an Jiaotong-Liverpool University & Liverpool University, RoboMaster 2021 University Championship South China Regional Competition
