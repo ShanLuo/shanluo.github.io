@@ -11,20 +11,25 @@ toc: true
 
 # PhD Students
 ## Main Supervisor
+* Thomas Plant, PhD student (2025-present), co-supervision with Prof. Christos Burgeles. Research topics: medical robotics, robot localisation, and tactile sensing.
+* Shiyi Gu, PhD student (2025-present), co-supervision with Prof. Yang Gao. Research topics: multimodal perception, robot learning, and generative models.
 * [Yongqiang Zhao](https://rancho-zhao.github.io/), PhD student (2024-present), co-supervision with Dr. Emmanouil Spyrakos Papastavridis. Research topics: robot simulations, skill learning and tactile sensing.
 * [Zhiyuan Wu](https://georgewuzy.github.io/), PhD student (2024-present), co-supervision with Dr. Emmanouil Spyrakos Papastavridis. Research topics: multimodal perception, robot learning, and generative models.
 * Yupeng Wang, PhD student (2024-present), co-supervision with Dr. Lukas Lindenroth. Research topics: medical robotics, robot designs, and tactile sensing.
-* Yang Liu, PhD student (2024-present), co-supervision with Dr. Emmanouil Spyrakos Papastavridis. Research topics: computer vision, agent learning, and robot multimodal learning.
+* [Yang Liu](https://scholar.google.com/citations?user=t1emSE0AAAAJ&hl=en&oi=sra), PhD student (2024-present), co-supervision with Dr. Emmanouil Spyrakos Papastavridis. Research topics: computer vision, agent learning, and robot multimodal learning.
 * [Zhuo Chen](https://zhuochenn.github.io/zhuochenTac.github.io), PhD student (2023-present), co-supervision with Dr. Emmanouil Spyrakos Papastavridis. Research topics: tactile sensing, transfer learning and robot grasping.
-* Xuyang Zhang, PhD student (2023-present), co-supervision with Dr. Emmanouil Spyrakos Papastavridis. Research topics: tactile sensing, simulation and robot designs.
-* [Jiaqi Jiang](https://sites.google.com/view/jiaqi-jiang/), co-supervision with Dr. Thanh-Toan Do (2019-2024). Research topics: transparent object detection and grasping, robot vision and tactile sensing.
+* [Xuyang Zhang](https://xuyangzhang0223.github.io/), PhD student (2023-present), co-supervision with Dr. Emmanouil Spyrakos Papastavridis. Research topics: tactile sensing, simulation and robot designs.
 
 # Visiting Students
-* Tai Tuan Nguyen (2024-2025), from JAIST (Dr Van Anh Ho's lab), Japan.
-* Hengfei Zhao (2024-2025), from Tsinghua University, China.
+[Lifan Luo](https://scholar.google.com/citations?user=ryLAh2sAAAAJ&hl=en) (2025-2026), from Hong Kong University of Science and Technology.
+Boyi Duan (2025-2026), from Southeast University, China.
+
 
 # Alumni
+* Dr. [Jiaqi Jiang](https://sites.google.com/view/jiaqi-jiang/), was a PhD student at RPL, co-supervision with Dr. Thanh-Toan Do (2019-2024). Research topics: transparent object detection and grasping, robot vision and tactile sensing. Now Assistant Professor at the Beijing Institute of Technology, China.
 * Dr. [Daniel Fernandes Gomes](https://danfergo.github.io/), was a PhD student at RPL, co-supervision with Dr Paolo Paoletti (2018-2024). Research topic: tactile sensing, simulation of tactile sensing. Now Assistant Professor at the Faculty of Engineering, University of Porto, Portugal.
+* [Tai Tuan Nguyen](https://scholar.google.com/citations?user=_FGQGIkAAAAJ&hl=en) (2024-2025), from JAIST (Dr Van Anh Ho's lab), Japan.
+* Hengfei Zhao (2024-2025), from Tsinghua University, China.
 * Mr. Ni Ou, visiting student at the RPL (2023-2024), Ph.D student at Beijing Institute of Technology, China.
 * Dr. [Jongmin Yu](https://sites.google.com/view/jongmin-yu-cv/home), was Research Fellow at RPL on the Innovate UK [ARRES PREVENT](https://www.robotiz3d.com/smart.html) project. Now Principal Researcher, at Research & Development, ProjectG.AI (South Korea); Research Fellow, University of Cambridge.
 * Dr. [Konstantinos (Kostas) Alexandridis](https://kostas1515.github.io/), was a PhD student at RPL, co-supervision with Dr Anh Nguyen (2019-2024). Research topic: Long-tail object detection. Now Research Scientist at Huawei London Research Centre.
