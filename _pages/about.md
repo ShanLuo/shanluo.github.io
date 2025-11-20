@@ -37,6 +37,11 @@ Email: shan.luo at kcl.ac.uk
 Please email me with a copy of your CV if you are interested in the above opportunities. Visit [Opportunities](/opportunities/) for all the opportunities.
 
 ## [News](/news/)
+*  Novemeber 2025: I will serve as Area Chair for RSS 2026.
+*  October 2025: I was nominated for the Supervisory Excellence Award!
+*  October 2025: Our RoTiBot won the Best Paper Award at IROS 2025 Workshop on “Tactile Sensing Toward Robot Dexterity and Intelligence”, congratulations to Xuyang and Jiaqi!
+*  October 2025: Our RoTiBot won the Best Visual Paper Award at IROS 2025 Workshop on “Bio-Inspired Robotic Perception and Control: Bridging Centralized and Decentralized Intelligence”, congratulations to Xuyang and Jiaqi!
+*  October 2025: I will be an Open Source AI Fellow at The Alan Turing Institute. 
 *  October 2025: Our paper titled "ViTacGen: Robotic Pushing with Vision-to-Touch Generation" has been accepted to IEEE Robotics and Automation Letters (RA-L), congratulations to Zhiyuan and the team!
 *  September 2025: Our paper titled "TransFace++: Rethinking the Face Recognition Paradigm with a Focus on Accuracy, Efficiency, and Security" has been accepted to IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI), congratulations to Yang and the team! [paper link](https://ieeexplore.ieee.org/abstract/document/11184862)
 *  August 2025: I was inteterview by CGTN Europe on "Rise of the robots: How they’re solving global issues" at the IET Savoy Place. [YouTube interview video](https://www.youtube.com/watch?v=Ks9hy7K28KE); [News article](https://newseu.cgtn.com/news/2025-08-15/The-robots-learning-to-be-more-human-1FQ65aa0c5W/p.html)
