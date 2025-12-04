@@ -38,6 +38,7 @@ Email: shan.luo at kcl.ac.uk
 Please email me with a copy of your CV if you are interested in the above opportunities. Visit [Opportunities](/opportunities/) for all the opportunities.
 
 ## [News](/news/)
+*  Novemeber 2025: I am excited to share that I am awarded an EPSRC Open Fellowship!
 *  Novemeber 2025: I will serve as Area Chair for RSS 2026.
 *  October 2025: I was nominated for the Supervisory Excellence Award!
 *  October 2025: Our RoTiBot won the Best Paper Award at IROS 2025 Workshop on “Tactile Sensing Toward Robot Dexterity and Intelligence”, congratulations to Xuyang and Jiaqi!
