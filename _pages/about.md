@@ -25,9 +25,11 @@ Email: shan.luo at kcl.ac.uk
 
 <!---* PhD Opening: One [A*STAR and King’s College London PhD Studentship (October 2024 Entry)](https://www.kcl.ac.uk/research/funding/astar-phd-studentships) is available. Applications are accepted from citizens of the UK, the EU, the USA, Canada, Latin America, and Australia.--->
 
+<!---* PhD Opening: One PhD position "Giving Prosthetic Hands a Sense of Touch" through the [EPSRC DRIVE-Health CDT](https://showcase.drive-health.org.uk/project/giving-prosthetic-hands-a-sense-of-touch/) is available. Deadline: 12 January 2026. --->
+
+<!---* PhD Opening: One [King's-China Scholarship Council](https://www.kcl.ac.uk/study-legacy/funding/kings-china-scholarship-council-phd-scholarship-programme-k-csc) PhD position is available, open to Chinese students. Deadline: 1st January 2026. --->
+
 * PhD studentships (home/international fees) available, contact me with a copy of your up-to-date CV if you are interested!
-* PhD Opening: One PhD position "Giving Prosthetic Hands a Sense of Touch" through the [EPSRC DRIVE-Health CDT](https://showcase.drive-health.org.uk/project/giving-prosthetic-hands-a-sense-of-touch/) is available. Deadline: 12 January 2026. 
-* PhD Opening: One [King's-China Scholarship Council](https://www.kcl.ac.uk/study-legacy/funding/kings-china-scholarship-council-phd-scholarship-programme-k-csc) PhD position is available, open to Chinese students. Deadline: 1st January 2026. 
 
 * [Commonwealth PhD Scholarships](https://www.kcl.ac.uk/study-legacy/funding/commonwealth-phd-scholarships-for-high-income-countries)
 
@@ -38,6 +40,9 @@ Email: shan.luo at kcl.ac.uk
 Please email me with a copy of your CV if you are interested in the above opportunities. Visit [Opportunities](/opportunities/) for all the opportunities.
 
 ## [News](/news/)
+*  January 2026: Our GenForce work on transferring force predictions across tactile sensors is accepted to Nature Communications, congratulations to Zhuo and the team! [preprint](https://kclpure.kcl.ac.uk/ws/portalfiles/portal/362066859/GenForce_NatureCommunications.pdf)
+*  January 2026: Our SimTac work on designing tactile sensors of biomorphic structures through simulations is accepted to Cyborg and Bionic Systems, congratulations to Xuyang and the team! [preprint](https://arxiv.org/pdf/2511.11456)
+*  January 2026: I am excited to share that I am awarded an EPSRC Open Fellowship!
 *  Novemeber 2025: I am excited to share that I am awarded an EPSRC Open Fellowship!
 *  Novemeber 2025: I will serve as Area Chair for RSS 2026.
 *  October 2025: I was nominated for the Supervisory Excellence Award!
