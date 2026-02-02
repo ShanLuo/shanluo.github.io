@@ -40,6 +40,7 @@ Email: shan.luo at kcl.ac.uk
 Please email me with a copy of your CV if you are interested in the above opportunities. Visit [Opportunities](/opportunities/) for all the opportunities.
 
 ## [News](/news/)
+*  February 2026: We have 7 papers accepted to ICRA 2026 (3 papers submitted to ICRA and 4 transferred from RA-L), congratulations to the team!
 *  January 2026: Our GenForce work on transferring force predictions across tactile sensors is accepted to Nature Communications, congratulations to Zhuo and the team! [preprint](https://kclpure.kcl.ac.uk/ws/portalfiles/portal/362066859/GenForce_NatureCommunications.pdf)
 *  January 2026: Our SimTac work on designing tactile sensors of biomorphic structures through simulations is accepted to Cyborg and Bionic Systems, congratulations to Xuyang and the team! [preprint](https://arxiv.org/pdf/2511.11456)
 *  January 2026: I am excited to share that I am awarded an EPSRC Open Fellowship!
