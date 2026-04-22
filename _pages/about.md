@@ -40,7 +40,7 @@ Email: shan.luo at kcl.ac.uk
 Please email me with a copy of your CV if you are interested in the above opportunities. Visit [Opportunities](/opportunities/) for all the opportunities.
 
 ## [News](/news/)
-*  V
+*  March 2026: Our ICRA ViTac workshop comes to Vienna, look forward to seeing all on 1st June! [[workshop website]](https://shanluo.github.io/ViTacWorkshops/vitac2026)
 *  March 2026: Our paper titled "Visual-Tactile Peg-in-Hole Assembly Learning from Peg-out-of-Hole Disassembly" has been accepted to IEEE Robotics and Automation Letters (RA-L), congratulations to Yongqiang and the team! [[paper]](https://ieeexplore.ieee.org/abstract/document/11458772) [[website]](https://sites.google.com/view/pooh2pih)
 *  February 2026: We have 8 papers accepted to ICRA 2026 (4 papers submitted to ICRA and 4 transferred from RA-L), congratulations to the team!
 *  January 2026: Our GenForce work on transferring force predictions across tactile sensors is accepted to Nature Communications, congratulations to Zhuo and the team! [[preprint]](https://kclpure.kcl.ac.uk/ws/portalfiles/portal/362066859/GenForce_NatureCommunications.pdf) [[website]](https://zhuochenn.github.io/genforce-project/) [[paper]](https://www.nature.com/articles/s41467-026-68753-1)
