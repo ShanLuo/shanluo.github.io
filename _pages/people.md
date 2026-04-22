@@ -36,6 +36,7 @@ toc: true
 * Dr. [Jongmin Yu](https://sites.google.com/view/jongmin-yu-cv/home), was Research Fellow at RPL on the Innovate UK [ARRES PREVENT](https://www.robotiz3d.com/smart.html) project. Now Principal Researcher, at Research & Development, ProjectG.AI (South Korea); Research Fellow, University of Cambridge.
 * Dr. [Konstantinos (Kostas) Alexandridis](https://kostas1515.github.io/), was a PhD student at RPL, co-supervision with Dr Anh Nguyen (2019-2024). Research topic: Long-tail object detection. Now Research Scientist at Huawei London Research Centre.
 * Dr. [Guanqun Cao](https://smartguan.org/), was a PhD student at RPL, co-supervision with Prof. Danuashka Bollegala, (2019 to 2023). Research topic: tactile sensing, generative models. Now Assistant Professor at University of the West of England; was Research Fellow, University of York.
+* Prof. [Kun Qian](https://robotseu.github.io/), Professor at Southeast University, China, visiting RPL in 2020-2021.
 * Mr. Aaron Butterworth, co-supervision with Prof. Andy Cooper, (2020-2023). Research topic: laboratory automation, visuo-tactile learning. Now Research Engineer, Dstl.
 * Mr. [Zixi Chen](https://zixichen007115.github.io/), intern at the lab, now Ph.D student at Scuola Superiore Sant’Anna (SSSA).
 * Dr. Nathan (Zhenxi) Cui, on the EPSRC [ViTac](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/T033517/2) project.
