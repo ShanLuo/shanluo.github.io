@@ -45,7 +45,6 @@ Please email me with a copy of your CV if you are interested in the above opport
 *  February 2026: We have 8 papers accepted to ICRA 2026 (4 papers submitted to ICRA and 4 transferred from RA-L), congratulations to the team!
 *  January 2026: Our GenForce work on transferring force predictions across tactile sensors is accepted to Nature Communications, congratulations to Zhuo and the team! [[preprint]](https://kclpure.kcl.ac.uk/ws/portalfiles/portal/362066859/GenForce_NatureCommunications.pdf) [[website]](https://zhuochenn.github.io/genforce-project/) [[paper]](https://www.nature.com/articles/s41467-026-68753-1)
 *  January 2026: Our SimTac work on designing tactile sensors of biomorphic structures through simulations is accepted to Cyborg and Bionic Systems, congratulations to Xuyang and the team! [[preprint]](https://arxiv.org/pdf/2511.11456) [[website]](https://xuyangzhang0223.github.io/SimTac/) [[paper]](https://spj.science.org/doi/10.34133/cbsystems.0510)
-*  January 2026: I am excited to share that I am awarded an EPSRC Open Fellowship!
 *  Novemeber 2025: I am excited to share that I am awarded an EPSRC Open Fellowship!
 *  Novemeber 2025: I will serve as Area Chair for RSS 2026.
 *  October 2025: I was nominated for the Supervisory Excellence Award!
