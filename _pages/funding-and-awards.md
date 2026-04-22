@@ -5,8 +5,10 @@ permalink: /funding-and-awards/
 author_profile: true
 ---
 # Ongoing Projects
-* Principal Investigator, EPSRC Industrial Doctoral Landscape Award (IDLA), £250k, Oct 2025 to Oct 2029
-* Principal Investigator, Visual-Tactile Robotics, £275k, Oct 2025 to Oct 2026
+* Principal Investigator and Fellow, EPSRC Open Fellowship, [TacDiff: Designing Tactile-based Robots via Differentiable Simulations](https://gtr.ukri.org/projects?ref=UKRI3438#/tabOverview), £2M, May 2026 to Apr 2030
+* Fellow, [Turing Open Source AI Fellowship](https://ai.gov.uk/blogs/meet-our-new-open-source-ai-fellows/), £150k, 2026
+* Principal Investigator, EPSRC Industrial Doctoral Landscape Award (IDLA), £160k, June 2026 to May 2030
+* Principal Investigator, Visual-Tactile AI, £275k, Oct 2025 to Oct 2026
 
 # Completed Projects
 * Principal Investigator, EPSRC New Investigator Award, [ViTac: Visual-Tactile Synergy for Handling Flexible Materials](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/T033517/2) , £536k, Apr 2021 to Apr 2024
