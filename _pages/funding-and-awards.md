@@ -26,10 +26,14 @@ author_profile: true
 * £39k, 2018, Capital Equipment, Faculty of Science and Engineering, University of Liverpool, including one UR5 Robot Arm and one 3-finger Robotiq Gripper 
 
 # Exchange/Travel Grants
-* Principal Investigator, Royal Society International Exchanges 2020 Cost Share (NSFC), with Shandong University, £11.46k
+* Principal Investigator, Royal Society International Exchanges 2025 Cost Share (NSFC), with Jilin University, £12k
+* Principal Investigator, Royal Society International Exchanges 2020 Cost Share (NSFC), with Shandong University, £12k
 * Co-Investigator, Royal Society International Exchanges Scheme, with Istituto Italiano di Tecnologia (IIT), £12k
 
 # Awards
+* Nomination for Supervisory Excellence Award, King's College London
+* Best Paper Award, IROS 2025 Workshop on “Tactile Sensing Toward Robot Dexterity and Intelligence”
+* Best Visual Paper Award, IROS 2025 Workshop on “Bio-Inspired Robotic Perception and Control: Bridging Centralized and Decentralized Intelligence”
 * Best Paper Award at TAROS 2025 (the longest-run UK-hosted international conference on Robotics)
 * Robotics and Automation Award finalist, Akabo Media, 2025
 * 2nd Place, Kingsbot team (Academic Supervisor), 2024 RoboCup Autonomous Manipulation Challenge (ARM)
