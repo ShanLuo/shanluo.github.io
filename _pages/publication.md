@@ -18,7 +18,7 @@ Please [email me](mailto:shan.luo@kcl.ac.uk) if you require a copy of the paper.
 
 <!-- # Preprint -->
 
-#2026
+# 2026
 
 **Journal articles**
 1. Z. Chen, N. Ou, X. Zhang, Z. Wu, Y. Zhao, Y. Wang, N. Lepora, L. Jamone, J. Deng, and **S. Luo**,
@@ -62,7 +62,7 @@ Biomedical Robotics and Biomechatronics (BioRob), 2026.
 Suppressing False Discoveries", The 40th Annual AAAI Conference on Artificial Intelligence (AAAI
 2026), 2026.
 
-#2025
+# 2025
 
 **Journal articles**
 1. X. Zhu, H. Zhong, Y. Wu, **S. Luo**, Y. Gao, “Guiding Robotic Cloth Grasping in Darkness: Infrared
@@ -114,7 +114,7 @@ Method Robust to Face Pose", The 17th Asian Conference on Machine Learning, 2025
 Transparent Object Grasping Assistance", Annual Conference Towards Autonomous Robotic Systems
 (TAROS), 2025. **Best Paper Award**.
 
-#2024
+# 2024
 
 **Journal articles**
 1. C. Zhang, M. Li, Z. Wu, C.G. Zhao, H. Yuan, J. Xie, G. Xu, J. Li, and S. Luo*, “A Haptic Feedback
