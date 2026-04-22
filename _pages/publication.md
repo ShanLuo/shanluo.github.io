@@ -19,6 +19,7 @@ Please [email me](mailto:shan.luo@kcl.ac.uk) if you require a copy of the paper.
 <!-- # Preprint -->
 
 #2026
+
 **Journal articles**
 1. Z. Chen, N. Ou, X. Zhang, Z. Wu, Y. Zhao, Y. Wang, N. Lepora, L. Jamone, J. Deng, and **S. Luo**,
 “Training Tactile Sensors to Learn Force Sensing from Each Other”, Nature Communications, 2026.
@@ -39,6 +40,7 @@ Ellipse-Heuristic Goal-Motivated Autonomous Exploration”, IEEE Transactions on
 Electronics, 2026.
 7. Q. Cong, S. Oh, W. Fan, **S. Luo**, K. Althoefer, and D. Zhang, “TacEva: A Performance Evaluation
 Framework For Vision-Based Tactile Sensors”, Advanced Intelligent Systems, 2026.
+
 **Conference proceedings**
 1. Z. Wu, R. A. Potamias, X. Zhang, Z. Zhang, J. Deng, and **S. Luo**, “CEDex: Cross-Embodiment
 Dexterous Grasp Generation at Scale from Human-like Contact Representations", IEEE International
@@ -61,6 +63,7 @@ Suppressing False Discoveries", The 40th Annual AAAI Conference on Artificial In
 2026), 2026.
 
 #2025
+
 **Journal articles**
 1. X. Zhu, H. Zhong, Y. Wu, **S. Luo**, Y. Gao, “Guiding Robotic Cloth Grasping in Darkness: Infrared
 Semantic Segmentation and Grasping Position Selection”, IEEE Robotics and Automation Letters,
@@ -93,6 +96,7 @@ for Soft Hand Exoskeleton”, Robotics and Automation Letters, 2025.
 Intent Detection”, Computer Vision and Image Understanding, 2025.
 12. A. Liu, K. Qian, B. Duan and **S. Luo**, “Dynamic Contrastive Koopman Operator for Tactile Servo of
 Deformable Linear Objects”, IEEE Transactions on Industrial Electronics, 2025.
+
 **Conference proceedings**
 1. Z. Wu, Y. Zhao, and **S. Luo**, “ConViTac: Aligning Visual-Tactile Fusion with Contrastive
 Representations", IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2025.
@@ -111,6 +115,7 @@ Transparent Object Grasping Assistance", Annual Conference Towards Autonomous Ro
 (TAROS), 2025. **Best Paper Award**.
 
 #2024
+
 **Journal articles**
 1. C. Zhang, M. Li, Z. Wu, C.G. Zhao, H. Yuan, J. Xie, G. Xu, J. Li, and S. Luo*, “A Haptic Feedback
 Sleeve for a Flight Video Game”, IEEE Transactions on Haptics, 2024.
@@ -136,6 +141,7 @@ virtual reality to enhance teleoperation of unmanned ground vehicles”, Frontie
 10. J. Yu, J. Jiang, S. Fichera, P. Paoletti, L. Layzell, D. Mehta, S. Luo*, “Road Surface Defect Detection –
 From Image-based to Non-image-based: A Survey”, IEEE Transactions on Intelligent Transportation
 Systems, 2024.
+
 **Conference proceedings**
 1. J. Wojcik, J. Jiang, J. Wu and S. Luo, “A Case Study on Visual-Audio-Tactile Cross-Modal Retrieval",
 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2024.
