@@ -6,8 +6,8 @@ author_profile: true
 ---
 # Ongoing Projects
 * Principal Investigator and Fellow, EPSRC Open Fellowship, [TacDiff: Designing Tactile-based Robots via Differentiable Simulations](https://gtr.ukri.org/projects?ref=UKRI3438#/tabOverview), £2M, May 2026 to Apr 2031
-* Fellow, [Turing Open Source AI Fellowship](https://ai.gov.uk/blogs/meet-our-new-open-source-ai-fellows/), £150k, 2026
-* Principal Investigator, EPSRC Industrial Doctoral Landscape Award (IDLA), £160k, June 2026 to May 2027
+* Fellow, [Turing Open Source AI Fellowship](https://ai.gov.uk/blogs/meet-our-new-open-source-ai-fellows/), £150k, 2026-2027
+* Principal Investigator, EPSRC Industrial Doctoral Landscape Award (IDLA), £160k, June 2026 to May 2031
 * Principal Investigator, Visual-Tactile AI, £275k, Oct 2025 to Oct 2026
 
 # Completed Projects
