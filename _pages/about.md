@@ -13,6 +13,8 @@ I am currently a Reader in Robotics and AI at the Department of Engineering, Kin
 
 I was a Lecturer (Assistant Professor) at the Department of Computer Science, the University of Liverpool, from 2018 to 2021, and was Director for the smARTLab at the Department. Prior to that, I was a Postdoctoral Research Fellow at Harvard University from 2017 to 2018, and at the University of Leeds from 2016 to 2017. I received the PhD degree in Robotics from King's College London, in 2016. I was a Visiting Scientist at the Computer Science and Artificial Intelligence Laboratory (CSAIL), MIT, in 2016. I am a Fellow of the Higher Education Academy (FHEA).
 
+I am an [UKRI EPSRC Open Fellow](https://www.kcl.ac.uk/news/prestigious-research-fellowship-awarded-to-kings-engineer-to-unlock-the-power-of-tactile-robotics), [Turing Open Source AI Fellow](https://ai.gov.uk/blogs/meet-our-new-open-source-ai-fellows/), and a [Hi! Paris International Visting Chair](https://hi-paris.fr/2026/04/11-international-visiting-chairs-join-hi-paris-in-2026/).
+
 ## Contact
 Email: shan.luo at kcl.ac.uk  
 
@@ -40,6 +42,7 @@ Email: shan.luo at kcl.ac.uk
 Please email me with a copy of your CV if you are interested in the above opportunities. Visit [Opportunities](/opportunities/) for all the opportunities.
 
 ## [News](/news/)
+*  June 2026: Our paper titled ``EleTac: Elephant Trunk Tip-Inspired Soft Gripper with Vision-Based Tactile Sensing and Proprioception" in colloboration with Prof. Van Ho's group at JAIST, has been accpeted to IEEE Transactions on Robotics, congratulations to Tuan, Xuyang and Van!
 *  March 2026: Our ICRA ViTac workshop comes to Vienna with a theme "7th ViTac Workshop - Learning to See and Feel: Vision–Tactile Synergy for Embodied AI", look forward to seeing all on 1st June! [[workshop website]](https://shanluo.github.io/ViTacWorkshops/vitac2026)
 *  March 2026: Our paper titled "Visual-Tactile Peg-in-Hole Assembly Learning from Peg-out-of-Hole Disassembly" has been accepted to IEEE Robotics and Automation Letters (RA-L), congratulations to Yongqiang and the team! [[paper]](https://ieeexplore.ieee.org/abstract/document/11458772) [[website]](https://sites.google.com/view/pooh2pih)
 *  February 2026: We have 8 papers accepted to ICRA 2026 (4 papers submitted to ICRA and 4 transferred from RA-L), congratulations to the team!
