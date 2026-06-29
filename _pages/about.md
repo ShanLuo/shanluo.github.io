@@ -42,7 +42,7 @@ Email: shan.luo at kcl.ac.uk
 Please email me with a copy of your CV if you are interested in the above opportunities. Visit [Opportunities](/opportunities/) for all the opportunities.
 
 ## [News](/news/)
-*  June 2026: Our paper titled ``EleTac: Elephant Trunk Tip-Inspired Soft Gripper with Vision-Based Tactile Sensing and Proprioception" in colloboration with Prof. Van Ho's group at JAIST, has been accpeted to IEEE Transactions on Robotics, congratulations to Tuan, Xuyang and Van!
+*  June 2026: Our paper titled ``EleTac: Elephant Trunk Tip-Inspired Soft Gripper with Vision-Based Tactile Sensing and Proprioception" in colloboration with Prof. Van Ho's group at JAIST, has been accpeted to IEEE Transactions on Robotics, congratulations to Tuan, Xuyang and Van! [[paper]]((https://ieeexplore.ieee.org/document/11581352) [[website]](https://ho-lab-jaist.github.io/eletac/) [[code]](https://github.com/Ho-lab-jaist/eletac/tree/main/src) [[design]](https://github.com/Ho-lab-jaist/eletac/tree/main/docs/assets/cad)
 *  March 2026: Our ICRA ViTac workshop comes to Vienna with a theme "7th ViTac Workshop - Learning to See and Feel: Vision–Tactile Synergy for Embodied AI", look forward to seeing all on 1st June! [[workshop website]](https://shanluo.github.io/ViTacWorkshops/vitac2026)
 *  March 2026: Our paper titled "Visual-Tactile Peg-in-Hole Assembly Learning from Peg-out-of-Hole Disassembly" has been accepted to IEEE Robotics and Automation Letters (RA-L), congratulations to Yongqiang and the team! [[paper]](https://ieeexplore.ieee.org/abstract/document/11458772) [[website]](https://sites.google.com/view/pooh2pih)
 *  February 2026: We have 8 papers accepted to ICRA 2026 (4 papers submitted to ICRA and 4 transferred from RA-L), congratulations to the team!
