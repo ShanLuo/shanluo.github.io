@@ -26,19 +26,26 @@ Please [email me](mailto:shan.luo@kcl.ac.uk) if you require a copy of the paper.
 2. X. Zhang, J. Jiang, Z. Chen, Y. Zhao, T. Yang, D.F. Gomes, J. Wang, and **S. Luo**, “SimTac: A
 Physics-Based Simulator for Vision-Based Tactile Sensing with Biomorphic Structures”, Cyborg and
 Bionic Systems, 2026.
-3. Y. Zhao, X. Zhang, Z. Chen, M. Leonetti, E. Spyrakos-Papastavridis, and **S. Luo**, Visual-Tactile
+3. Tuan Nguyen, Xuyang Zhang, Quan Luu, **S. Luo** and Van Ho, “EleTac: Elephant Trunk Tip-Inspired
+Soft Gripper with Vision-Based Tactile Sensing and Proprioception”, IEEE Transactions on Robotics, 2026.
+4. Y. Wang, N. Raison, X. Zhang, A. Yang, L. Lindenroth, and **S. Luo**, “EndoTac: An Endoscopic
+Camera-Based Tactile Sensor with High Sensitivity for Minimally Invasive Surgery”, Advanced
+Science, 2026.
+5. Y. Zhao, X. Zhang, Z. Chen, M. Leonetti, E. Spyrakos-Papastavridis, and **S. Luo**, Visual-Tactile
 Peg-in-Hole Assembly Learning from Peg-out-of-Hole Disassembly”, IEEE Robotics and Automation
 Letters, 2026.
-4. A. Liu, K. Qian, Z. Yue, Z. Wang, B. Duan, and **S. Luo**, “Learning Physics-Aware Sensorimotor
+6. Z. Wu, Z. Chen, and **S. Luo**, “VTLoc: Learning-based Tactile Contact Localization in Visual Point
+Clouds”, IEEE Robotics and Automation Letters, 2026.
+7. A. Liu, K. Qian, Z. Yue, Z. Wang, B. Duan, and **S. Luo**, “Learning Physics-Aware Sensorimotor
 Model with Visual-Tactile Sensing for Deformable Linear Object Manipulation”, IEEE Transactions on
 Mechatronics, 2026.
-5. L. Tong, K. Qian, Z. Yue, and **S. Luo**, “ViTaDex: Vision-Tactile Fusion for 6-D Object-in-Hand Pose
+8. L. Tong, K. Qian, Z. Yue, and **S. Luo**, “ViTaDex: Vision-Tactile Fusion for 6-D Object-in-Hand Pose
 Estimation in Dexterous Anthropomorphic Manipulation”, IEEE Transactions on Industrial
 Informatics, 2026.
-6. H. Wang, H. Yu, **S. Luo**, J. Xi, “LESE-GAE: Lightweight Environment Skeletonization and
+9. H. Wang, H. Yu, **S. Luo**, J. Xi, “LESE-GAE: Lightweight Environment Skeletonization and
 Ellipse-Heuristic Goal-Motivated Autonomous Exploration”, IEEE Transactions on Industrial
 Electronics, 2026.
-7. Q. Cong, S. Oh, W. Fan, **S. Luo**, K. Althoefer, and D. Zhang, “TacEva: A Performance Evaluation
+10. Q. Cong, S. Oh, W. Fan, **S. Luo**, K. Althoefer, and D. Zhang, “TacEva: A Performance Evaluation
 Framework For Vision-Based Tactile Sensors”, Advanced Intelligent Systems, 2026.
 
 **Conference proceedings**
@@ -55,10 +62,13 @@ Robotics and Automation (ICRA), 2026.
 Towards Semantic Reasoning over Action Memorization via Synergistic Explicit Trace and Latent
 Action Planning", IEEE/CVF Conference on Computer Vision and Pattern Recognition Conference
 (CVPR), 2026.
-5. C. Hu, K. Motaghedolhagh, U. Hammerbeck, **S. Luo**, L. Gionfrida, “PointGrasp: Point Cloud-based
+5. R. Yu, Y. Liu, J. Wang, C. Xu, Y. Shao, B. Sun, Y. Liu, and **S. Luo**, “Practice Makes Perfect: From
+Explicit Decomposition to Reinforced Latent Planning in Text-to-Human Motion", European
+Conference on Computer Vision (ECCV), 2026.
+6. C. Hu, K. Motaghedolhagh, U. Hammerbeck, **S. Luo**, L. Gionfrida, “PointGrasp: Point Cloud-based
 Grasp Intent Detection for a Soft Exoskeleton Glove", IEEE RAS/EMBS International Conference on
 Biomedical Robotics and Biomechatronics (BioRob), 2026.
-6. X. Zhu, Z. Tu, Y. Wu, **S. Luo**, H. Chen and Y. Gao “Effective Robotic Cloth Grasping through
+7. X. Zhu, Z. Tu, Y. Wu, **S. Luo**, H. Chen and Y. Gao “Effective Robotic Cloth Grasping through
 Suppressing False Discoveries", The 40th Annual AAAI Conference on Artificial Intelligence (AAAI
 2026), 2026.
 
