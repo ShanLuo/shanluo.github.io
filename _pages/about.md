@@ -42,6 +42,10 @@ Email: shan.luo at kcl.ac.uk
 Please email me with a copy of your CV if you are interested in the above opportunities. Visit [Opportunities](/opportunities/) for all the opportunities.
 
 ## [News](/news/)
+*  Sep 2026: I serve as Senior Area Chair for RSS 2027.
+*  Sep 2026: Our DiffMorphGrasp has been accepted to CoRL 2026, congratulations to Zhiyuan and the team!
+*  Aug 2026: I serve as a Senior Program Committee member for AAAI 2026.
+*  Aug 2026: I serve as an Area Chair for CoRL 2026.
 *  July 2026: I am promoted to Professor of Robotics and AI, thanks to all the RPL group members, collaborators, colleagues and funders!
 *  July 2026: Our EndoTac paper has been accepted to Advanced Science, congratulations to Yupeng and the team!
 *  June 2026: Check out the podcast I had with The Age of AI on giving AI a body! [[YouTube video]](https://www.youtube.com/watch?v=fuxAEL-BxkQ)
