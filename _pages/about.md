@@ -43,8 +43,6 @@ New PhD students will be enrolled at the University of Oxford. Prospective appli
 
 <!---* [Visiting Research Studentships](https://www.kcl.ac.uk/study/postgraduate-research/visiting-research-students)--->
 
-Please email me with a copy of your CV if you are interested in the above opportunities. Visit [Opportunities](/opportunities/) for all the opportunities.
-
 ## [News](/news/)
 *  Oct 2026: I will join the Department of Computer Science of the University of Oxford.
 *  Oct 2026: I am on sabbatical for the 2026/2027 academic year.
