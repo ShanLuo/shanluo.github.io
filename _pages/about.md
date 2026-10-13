@@ -32,7 +32,10 @@ Email: shan.luo at kcl.ac.uk
 <!---* PhD Opening: One [King's-China Scholarship Council](https://www.kcl.ac.uk/study-legacy/funding/kings-china-scholarship-council-phd-scholarship-programme-k-csc) PhD position is available, open to Chinese students. Deadline: 1st January 2026. --->
 
 <!---* PhD studentships (home/international fees) available, contact me with a copy of your up-to-date CV if you are interested!--->
-* <p style="color:red;"> New PhD applicants will be enroled at the University of Oxford, please check out the entry requirements of [DPhil in Computer Science at the University of Oxford and available scholarships](https://www.ox.ac.uk/admissions/graduate/courses/dphil-computer-science). We also have a home studentship available. Contact me with a copy of your up-to-date CV if you are interested! </p>
+<p style="color: red;">
+<strong>PhD Opportunities at the University of Oxford:</strong>
+New PhD students will be enrolled at the University of Oxford. Prospective applicants are encouraged to review the <a href="https://www.ox.ac.uk/admissions/graduate/courses/dphil-computer-science">entry requirements and available scholarships for the DPhil in Computer Science</a>. We also have a <strong>fully funded studentship available for UK home students</strong>. If you are interested in joining our research group, please contact me with your up-to-date CV.
+</p>
 
 <!---* [Commonwealth PhD Scholarships](https://www.kcl.ac.uk/study-legacy/funding/commonwealth-phd-scholarships-for-high-income-countries)--->
 
