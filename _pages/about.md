@@ -31,17 +31,20 @@ Email: shan.luo at kcl.ac.uk
 
 <!---* PhD Opening: One [King's-China Scholarship Council](https://www.kcl.ac.uk/study-legacy/funding/kings-china-scholarship-council-phd-scholarship-programme-k-csc) PhD position is available, open to Chinese students. Deadline: 1st January 2026. --->
 
-* PhD studentships (home/international fees) available, contact me with a copy of your up-to-date CV if you are interested!
+<!---* PhD studentships (home/international fees) available, contact me with a copy of your up-to-date CV if you are interested!--->
+* <p style="color:red;"> New PhD applicants will be enroled at the University of Oxford, please check out the entry requirements of [DPhil in Computer Science at the University of Oxford and available scholarships](https://www.ox.ac.uk/admissions/graduate/courses/dphil-computer-science). We also have a home studentship available. Contact me with a copy of your up-to-date CV if you are interested! </p>
 
-* [Commonwealth PhD Scholarships](https://www.kcl.ac.uk/study-legacy/funding/commonwealth-phd-scholarships-for-high-income-countries)
+<!---* [Commonwealth PhD Scholarships](https://www.kcl.ac.uk/study-legacy/funding/commonwealth-phd-scholarships-for-high-income-countries)--->
 
-* [Fulbright Postgraduate Scholarship (for American students)](https://www.kcl.ac.uk/study-legacy/funding/fulbright-postgraduate-scholarship)
+<!---* [Fulbright Postgraduate Scholarship (for American students)](https://www.kcl.ac.uk/study-legacy/funding/fulbright-postgraduate-scholarship)--->
 
-* [Visiting Research Studentships](https://www.kcl.ac.uk/study/postgraduate-research/visiting-research-students)
+<!---* [Visiting Research Studentships](https://www.kcl.ac.uk/study/postgraduate-research/visiting-research-students)--->
 
 Please email me with a copy of your CV if you are interested in the above opportunities. Visit [Opportunities](/opportunities/) for all the opportunities.
 
 ## [News](/news/)
+*  Oct 2026: I will join the Department of Computer Science of the University of Oxford.
+*  Oct 2026: I am on sabbatical for the 2026/2027 academic year.
 *  Sep 2026: I serve as Senior Area Chair for RSS 2027.
 *  Sep 2026: Our DiffMorphGrasp has been accepted to CoRL 2026, congratulations to Zhiyuan and the team!
 *  Aug 2026: I serve as a Senior Program Committee member for AAAI 2026.
