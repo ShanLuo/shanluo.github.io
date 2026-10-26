@@ -45,6 +45,8 @@ New PhD students will be enrolled at the University of Oxford. Prospective appli
 
 ## [News](/news/)
 *  Oct 2026: I will join the Department of Computer Science of the University of Oxford.
+*  Oct 2026: Check out the podcast I had with Core Matter! [[YouTube video]](https://read.corematter.com/p/what-happens-when-a-robot-needs-new)
+*  Oct 2026: Check out the podcast I had with Human Stories Behind the Robot, UK-RAS Network! [[YouTube video]](https://humanstoriesbehindtherobot.buzzsprout.com/2617688/episodes/19796523-the-human-doubt-behind-intelligent-robots)
 *  Oct 2026: I am on sabbatical for the 2026/2027 academic year.
 *  Sep 2026: I serve as Senior Area Chair for RSS 2027.
 *  Sep 2026: Our DiffMorphGrasp has been accepted to CoRL 2026, congratulations to Zhiyuan and the team!
